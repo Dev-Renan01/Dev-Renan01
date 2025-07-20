@@ -20,8 +20,9 @@
 ### 🧰 IDEs que utilizo
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" alt="Eclipse IDE" width="50"/>
-  <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" alt="IntelliJ IDEA" width="50"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" alt="Eclipse"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ IDEA"/>
+</p>
 </p>
 
 ---
