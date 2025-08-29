@@ -13,8 +13,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring Boot"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" alt="Maven"/>
-  <img src="images/hibernate.svg" alt="Hibernate" width="80"/> 
-  <img src="images/jpa.png" alt="JPA" width="80"/>
+  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/273214a5-c628-4c38-ad2e-954273fc8552" />
 
 </p>
 
