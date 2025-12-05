@@ -42,6 +42,7 @@
 📍 Recife, Pernambuco, Brasil  
 💼 [LinkedIn](https://www.linkedin.com/in/thiago-renan)  
 ✉️ [Email](mailto:thiagorenan1108@gmail.com)
+☎  [número] 81 98390-5194
 
 
 ---
