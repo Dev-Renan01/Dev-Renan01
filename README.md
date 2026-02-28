@@ -1,9 +1,20 @@
- 👋 Oi, eu sou Thiago Renan
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer" /> </p> <p align="center"> 🎓 Análise e Desenvolvimento de Sistemas <br> ☕ Foco em desenvolvimento Back-end com Java <br> 📍 Recife - PE, Brasil </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Thiago%20Renan&fontAlign=50&fontAlignY=35&color=0:0f2027,100:203a43&fontColor=00F7FF&animation=fadeIn" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Java+Backend+Developer;Spring+Boot+%7C+REST+APIs;MySQL+%7C+PostgreSQL+%7C+Docker;Open+to+Work+%7C+Junior+Developer" />
+</p>
+
+<p align="center">
+🎓 Análise e Desenvolvimento de Sistemas • ☕ Backend com Java • 📍 Recife - PE
+</p>
 
 ---
-🛠️ Tech Stack
-<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" alt="Spring Boot"/> <img src="https://spring.io/img/projects/spring-data.svg" width="40" alt="Spring Data JPA"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/> </p>
+## 🛠️ Stack Tecnológica
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git&theme=dark" />
+</p>
+
 ---
 
 🧰 IDEs que utilizo
