@@ -1,49 +1,27 @@
-# 👋 Oi, eu sou Thiago Renan
+ 👋 Oi, eu sou Thiago Renan
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Backend+Developer" /> </p> <p align="center"> 🎓 Análise e Desenvolvimento de Sistemas <br> ☕ Foco em desenvolvimento Back-end com Java <br> 📍 Recife - PE, Brasil </p>
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas   
-☕ Desenvolvedor Java em formação  
-📢 Em busca da minha **primeira oportunidade como desenvolvedor Java Júnior / Estágio!**
+---
+🛠️ Tech Stack
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" alt="Spring Boot"/> <img src="https://spring.io/img/projects/spring-data.svg" width="40" alt="Spring Data JPA"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" alt="PostgreSQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/> </p>
+---
+
+🧰 IDEs que utilizo
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="45" alt="IntelliJ IDEA"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="45" alt="Eclipse"/> </p>
 
 ---
 
-### 🛠️ Tech Stack
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring Boot"/>
-  <img src="https://spring.io/img/projects/spring-data.svg" alt="Spring Data JPA" width="32">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" alt="Maven"/>
-  <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/273214a5-c628-4c38-ad2e-954273fc8552" />
-
-</p>
+🔥 Streak de Contribuições
+<p align="center"> <img src="https://streak-stats.demolab.com?user=Dev-Renan01&theme=radical&hide_border=true&border_radius=8"/> </p>
+📊 Gráfico de Atividade
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Renan01&theme=react-dark&hide_border=true&area=true&radius=8"/> </p>
 
 ---
 
-### 🧰 IDEs que utilizo
-
-<p>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" alt="Eclipse"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ IDEA"/>
-</p>
-</p>
-
----
-
-### 📈 Meus GitHub Stats
-
-![Renan GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Renan01&show_icons=true&theme=dracula)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Renan01&layout=compact&theme=dracula)
-
----
-
-### 📫 Contato
-
-📍 Recife, Pernambuco, Brasil  
-💼 [LinkedIn](https://www.linkedin.com/in/thiago-renan)  
-✉️ [Email](mailto:thiagorenan1108@gmail.com)                                                                                                                                                                        
-☎  [número] 81 98390-5194
-
+📫 Contato
+<p align="center"> <a href="https://www.linkedin.com/in/thiago-renan"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:thiagorenan1108@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+📍 Recife, Pernambuco, Brasil                                                                                                                                                                        
+☎ 81 98390-5194
 
 ---
 
