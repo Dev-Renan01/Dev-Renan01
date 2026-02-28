@@ -12,7 +12,12 @@
 ---
 
 🔥 Streak de Contribuições
-<p align="center"> <img src="https://streak-stats.demolab.com?user=Dev-Renan01&theme=radical&hide_border=true&border_radius=8"/> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Dev-Renan01&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D"/>
+</p>
+
+---
+
 📊 Gráfico de Atividade
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Renan01&theme=react-dark&hide_border=true&area=true&radius=8"/> </p>
 
