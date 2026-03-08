@@ -45,9 +45,9 @@
 ---
 
 📫 Contato
-<p align="center"> <a href="https://www.linkedin.com/in/thiago-renan"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:thiagorenan1108@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
-📍 Recife, Pernambuco, Brasil                                                                                                                                                                        
-☎ 81 98390-5194
+<p align="center"> <a href="https://www.linkedin.com/in/thiago-renan"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
+
+☎ 81 98390-5194 | thiagorenan1108@gmail.com
 
 ---
 
