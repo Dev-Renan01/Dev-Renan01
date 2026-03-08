@@ -11,9 +11,19 @@
 ---
 ## 🛠️ Stack Tecnológica
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git&theme=dark" />
-</p>
+<div align="center">
+
+### Backend
+<img src="https://skillicons.dev/icons?i=java,spring" />
+
+### Databases
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+<img src="https://img.icons8.com/color/48/microsoft-sql-server.png"/>
+
+### Tools
+<img src="https://skillicons.dev/icons?i=docker,git" />
+
+</div>
 
 ---
 
